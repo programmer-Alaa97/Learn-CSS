@@ -1,0 +1,42 @@
+
+.my-div1{
+
+    
+    background-color: rgb(121, 42, 42);
+    
+    width: 250px;
+    height: 180px;
+    font-size: 16px;
+    padding: 12px;
+    margin: 6px;
+}
+
+
+.my-div2{
+
+    
+    background-color: rgb(42, 121, 108);
+    
+    width: 250px;
+    height: 180px;
+    font-size: 16px;
+    padding: 12px;
+    margin: 6px;
+    color: white;
+}
+
+
+
+.my-div3{
+
+    
+    background-color: rgb(53, 50, 13);
+
+    width: 250px;
+    height: 180px;
+    font-size: 16px;
+    padding: 12px;
+    margin: 6px;
+    color: white;
+}
+
