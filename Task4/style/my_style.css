@@ -1,0 +1,59 @@
+
+
+section{
+
+    background-image: url(../img/img4.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 4px;
+}
+
+
+
+.my-div1{
+
+    
+    background-image: url(../img/img3.jpg);
+    background-size: cover;
+    background-position: center ;
+    width: 250px;
+    height: 180px;
+    font-size: 16px;
+    padding: 12px;
+    margin: 6px;
+}
+
+
+.my-div2{
+
+    
+    background-image: url(../img/child.jpg);
+    background-size: cover;
+    background-position: center ;
+    width: 250px;
+    height: 180px;
+    font-size: 16px;
+    padding: 12px;
+    margin: 6px;
+    color:white;
+}
+
+
+.my-div3{
+
+    
+    background-image: url(../img/img1.jpg);
+    background-size: cover;
+    background-position: center ;
+    width: 250px;
+    height: 180px;
+    font-size: 16px;
+    padding: 12px;
+    margin: 6px;
+    color:white;
+}
+
+
+
+
+
