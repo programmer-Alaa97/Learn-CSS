@@ -1,0 +1,12 @@
+
+
+div{
+    background-color:rgb(226, 226, 224);
+    font-size: 15px;
+    border-width: 6px;
+    border-color: red;
+    border-style: hidden hidden hidden solid ;
+    padding: 18px;
+    margin: 4px;
+
+}
