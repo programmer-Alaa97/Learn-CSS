@@ -1,0 +1,542 @@
+/* body style */
+*
+{
+    margin: 0;
+    padding: 0;
+    
+}
+a
+{
+    text-decoration: none;
+    color: black;
+    margin-right: 25px;
+}
+
+/* end body style */
+/* ----------------------------------------------------------------------- */
+/* start style header */
+
+header
+{
+
+    width: 100%;
+    height: 40px;
+    background-color: #f3ede0;
+
+}
+
+.socail
+{
+    position: absolute;
+    left: 75rem;
+    top: 10px;
+}
+.mar-r
+{
+    margin-right: 25px;
+}
+.email
+{
+    position: absolute;
+    top: 10px;
+    left: 60px;
+}
+span.email-write
+{
+    font-size: 17px;
+    position: absolute;
+    top: 10px;
+    left: 90px;
+}
+
+.phone{
+    position: absolute;
+    top: 10px;
+    left: 250px;  
+}
+span.num-phone
+{
+    font-size: 17px;
+    position: absolute;
+    top: 10px;
+    left: 278px;
+}
+
+/* end style header */
+/* --------------------------------------------------------------------- */
+/* start style navbar */
+
+.navbar
+{
+
+    width: 100%;
+    height: 55px;
+    background-color: white;
+}
+
+
+div.logo a
+{
+    position: absolute;
+    color: #f839c6;
+    text-align: center;
+    font-size: 33px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 9px;
+    left: 50px;
+}
+
+span.style-i
+{
+    color: rgb(57, 159, 199) ;
+}
+span.style-a
+{
+    color:rgb(248, 195, 48) ;
+}
+
+ul
+{
+    list-style: none;
+}
+.navbar .style-list 
+{
+    position: absolute;
+    padding: 0;
+    right: 240px;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+ 
+}
+.navbar .style-list li
+{
+    display: inline-block;
+    padding: 17px;
+    margin-right: -25px;
+}
+.login a 
+{
+    color: #f839c6;
+    font-family: Arial, Helvetica, sans-serif;
+    border: 2px solid #f839c6;
+    width: 107px;
+    height: 27px;
+    position: absolute;
+    left: 75rem;
+    text-align: center;
+    padding: 3px;
+    top: 48px;
+    border-radius: 13px;
+    font-size: 22px;
+}
+
+
+
+/* end style navbar */
+/* ----------------------------------------------------------------------------- */
+/* start style section one */
+div.part1
+{
+    position: relative;
+    width: 35rem;
+    height: 17rem;
+    top: 12rem;
+    margin: 29px;
+    padding: 1px;
+}
+
+h1.head
+{
+    color: #f9327b;
+    margin: 30px;
+    text-align: center;
+    font-size: 37px;
+}
+
+p.prgraph
+{
+    font-family: 'Fuzzy Bubbles', cursive;
+    text-align: justify;
+    line-height: 33px;
+    font-size: 16px;
+}
+
+a.btn
+{
+    border: 2px solid #f9327b;
+    padding: 6px;
+    border-radius: 11px;
+    position: absolute;
+    top: 15rem;
+    width: 90px;
+    font-size: 18px;
+    text-align: center;
+    color: #f9327b;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a.btn:hover
+{
+    border: 2px solid #f9327b;
+    padding: 6px;
+    border-radius: 11px;
+    position: absolute;
+    top: 15rem;
+    width: 90px;
+    font-size: 18px;
+    text-align: center;
+    color: black;
+    background-color:#f9327b;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+div.part2
+{
+    position: absolute;
+}
+div.part2 img
+{
+    position: absolute;
+    width: 47rem;
+    left: 37rem;
+    top: -18rem;
+}
+/* end style section one */
+/* -------------------------------------------------------------- */
+/* start style section two */
+div.part-image
+{
+    position: relative;
+    width: 100px;
+}
+div.part-image img
+{
+    position: absolute;
+    display: inline;
+    width: 17rem;
+    height: 17rem;
+    top: 22rem;
+    align-items: center;
+    left: 18rem;
+
+}
+div.part-prgraph
+{
+    position: relative;
+    top: 22rem;
+    left: 38rem;
+    width: 450px;
+    height: 250px;
+}
+
+h1.head-dolor 
+{
+    position: absolute;
+    top: 10px;
+    color: #f9327b; 
+}
+p.prgraph-dolor
+{
+    position: absolute;
+    margin-top: 70px;
+    line-height: 24px;
+    text-align: justify; 
+    font-family: Arial, Helvetica, sans-serif; 
+}
+    
+
+
+/* end style section two */
+
+
+/*start style section three */
+section.sec-three
+{
+    position: relative;
+    top: 33rem;
+}
+span.box
+{
+    left: 16rem;
+    position: absolute;
+}
+h1.services
+{
+    font-size: 30px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+p.prgraph3
+{
+    font-size: 17px;
+    text-align: center;
+    margin-top: 17px;
+    margin-bottom: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.box div
+{
+    display: inline-block;
+    width: 170px;
+    height: 90px;
+    margin: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+.box div img
+{
+    width: 50px;
+    height: 50px;
+    border-radius: 30px;
+    margin-top: 8px;
+}
+.div-1
+{
+    background-color: #eeccdf;
+}
+.div-2
+{
+    background-color: #f19dab;
+    color: #ffffff;
+}
+.div-3
+{
+    background-color: #e2ceaa;
+    color: #e92424;
+}
+.div-4
+{
+    background-color: #b7ddec;
+}
+/* end style section three  */
+
+/* end style section four  */
+section.sec-four
+{
+   
+    width: 580px;
+    height: 400px;
+    position: relative;
+    top: 45rem;
+    left: 24rem;
+    margin-bottom: 30px;
+}
+div.project-1 ,div.project-2 ,div.project-3 ,div.project-4
+{
+    width: 490px;
+    height: 60px;
+    margin: 40px;
+    margin-top: 20px;
+}
+div.project-1 ,div.project-3
+{
+    background-color: #b7ddec;
+    border: 1px solid #b7ddec;
+    border-radius: 42px 50px 50px 42px;
+}
+div.project-2 ,div.project-4
+{
+    background-color: #f1516b;
+    border: 1px solid #f1516b;
+    border-radius: 50px 42px 42px 50px;
+}
+div.project-1 p ,div.project-3 p
+{
+    font-size: 22px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin-top: 14px;
+}
+div.project-2 p ,div.project-4 p
+{
+    font-size: 22px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin-top: 14px;
+    color: #ffffff;
+}
+
+.B2::before
+{
+    content: " ";
+    background-image: url(../img/undraw_Chef_cu0r\ \(1\).png);
+    background-size: cover;
+    width: 60px;
+    height: 60px;
+    position: absolute;
+    border-radius: 50px;
+    left: 40px;
+    top: 102px;
+    border: 1px solid #f3c863;
+}
+.B4::before
+{
+    content: " ";
+    background-image: url(../img/undraw_mathematics_4otb.png);
+    background-size: cover;
+    width: 60px;
+    height: 60px;
+    position: absolute;
+    border-radius: 50px;
+    left: 40px;
+    top: 306px;
+    border: 1px solid #f3c863;
+}
+.A1::after
+{
+    content: " ";
+    background-image: url(../img/undraw_junior_soccer_6sop.png);
+    background-size: cover;
+    width: 60px;
+    height: 60px;
+    position: absolute;
+    border-radius: 50px;
+    left: 29.2rem;
+    top:0px;
+    border: 1px solid #f1516b;
+}
+.A3::after
+{
+    content: " ";
+    background-image: url(../img/undraw_Hiking_re_k0bc.png);
+    background-size: cover;
+    width: 60px;
+    height: 60px;
+    position: absolute;
+    border-radius: 50px;
+    left: 29.2rem;
+    top: 204px;
+    border: 1px solid #f1516b;
+}
+.B3::before
+{
+    content: " ";
+    width: 0;
+    height: 0;
+    position: absolute;
+    left: -1rem;
+    top: 195px;
+    border: 40px solid;
+    border-color: transparent #f1516b transparent transparent;
+}
+.B1::before
+{
+    content: " ";
+    width: 0;
+    height: 0;
+    position: absolute;
+    left: -1rem;
+    top: -9px;
+    border: 40px solid;
+    border-color: transparent #f1516b transparent transparent;
+}
+.A2::after
+{
+    content: " ";
+    width: 0;
+    height: 0;
+    position: absolute;
+    left: 32rem;
+    top: 93px;
+    border: 40px solid;
+    border-color: transparent transparent transparent #ffd14f;
+}
+.A4::after
+{
+    content: " ";
+    width: 0;
+    height: 0;
+    position: absolute;
+    left: 32rem;
+    top: 297px;
+    border: 40px solid;
+    border-color: transparent transparent transparent #ffd14f;
+}
+.D1
+{
+   
+    border: 1px solid #f1516b;
+    top: 8px;
+    position: absolute;
+    width: 64px;
+    height: 45px;
+    border-radius: 0 14px 14px 0;
+    left: 50px;
+    background-color: #f1516b;
+}
+.D1 .p1{
+    color: black;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 6px;
+}
+.D3
+{
+   
+    border: 1px solid #f1516b;
+    top: 211px;
+    position: absolute;
+    width: 64px;
+    height: 45px;
+    border-radius: 0 14px 14px 0;
+    left: 50px;
+    background-color: #f1516b;
+}
+.D3 .p3{
+    color: black;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 6px;
+}
+.D2
+{
+    border: 1px solid #ffd14f;
+    top: 109px;
+    position: absolute;
+    width: 64px;
+    height: 45px;
+    border-radius: 14px 0 0 14px;
+    left: 28rem;
+    background-color: #ffd14f 
+}
+.D2 .p2{
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 6px;
+}
+.D4
+{
+   
+    border: 1px solid #ffd14f;
+    top: 313px;
+    position: absolute;
+    width: 64px;
+    height: 45px;
+    border-radius: 14px 0 0 14px;
+    left: 28rem;
+    background-color: #ffd14f
+}
+.D4 .p4{
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 6px;
+}
+
+/* end style section four  */
+
+/* start style footer */
+footer.footer
+{
+    width: 100%;
+    height: 50px;
+    background-color: #efc14194;
+    top: 125rem;
+    position: absolute;
+}
+/* end style footer */
