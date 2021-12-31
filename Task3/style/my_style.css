@@ -1,0 +1,56 @@
+
+.my-div1{
+
+    width: 400px;
+    height: 400px;
+    font-size: 14px;
+    background-image: url(../img/img3.jpg);
+    background-repeat: no-repeat;
+    background-size : cover;
+    margin: 10px;
+}
+
+
+.my-div2{
+
+    width: 400px;
+    height: 400px;
+    font-size: 10px;
+    background-image: url(../img/img3.jpg);
+    background-repeat: repeat-y;
+    background-position:right ;
+    background-size:200px;
+    margin: 10px;
+
+}
+
+
+
+.my-div3{
+
+    width: 400px;
+    height: 400px;
+    font-size: 10px;
+    background-image: url(../img/img3.jpg);
+    background-repeat: repeat-x;
+    background-position:bottom ;
+    background-size:200px;
+    margin: 10px;
+}
+
+
+
+.my-div4{
+
+    width: 400px;
+    height: 400px;
+    font-size: 10px;
+    background-image: url(../img/img3.jpg);
+    background-repeat: repeat-x repeat-y;
+    background-size:200px;
+    margin: 10px;
+}
+
+
+
+

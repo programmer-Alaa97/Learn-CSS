@@ -1,0 +1,51 @@
+
+
+
+
+
+ .my-span1{
+
+    
+    background-color:rgb(245, 244, 244);
+    border:red 6px solid;
+    width: 320px;
+    height: 300px;
+    font-size: 17px;
+    padding: 13px;
+    margin: 4px;
+    display: inline-block;
+}
+
+
+.my-span2{
+
+    background-color:rgb(182, 67, 67);
+    border-width: 6px;
+    border-color: red;
+    border-style:hidden dotted hidden dashed ;
+    width: 320px;
+    height: 300px;
+    font-size: 17px;
+    padding: 13px;
+    color: white;
+    margin: 4px;
+    display: inline-block;
+}
+
+
+.my-span3{
+
+    
+    background-color:rgb(164, 167, 34);
+    border-width: 6px;
+    border-color: red;
+    border-style: dashed hidden solid hidden ;
+    width: 320px;
+    height: 300px;
+    font-size: 17px;
+    padding: 13px;
+    color: white;
+    margin: 4px;
+    display: inline-block;
+} 
+
